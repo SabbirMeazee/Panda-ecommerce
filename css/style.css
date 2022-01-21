@@ -1,0 +1,24 @@
+.background_banner{
+    background-color: #fceae8;
+}
+.watch-bg{
+    background-color: #ffa500;
+}
+.price_color{
+    color: #ff1470;
+}
+.img_size img{
+    width: 100px;
+}
+.btn-color{
+    /* background-color: #ff287c; */
+background: linear-gradient(to bottom, #ff4c93, #ff1470);
+    color: white;
+}
+
+.bg-footer{
+    background-color: #fceae8;
+}
+footer p, .let_p{
+    color: #808080;
+}
